@@ -9,9 +9,9 @@ repository = "https://github.com/arnaucube/poseidon-ark"
 readme = "README.md"
 
 [dependencies]
-ark-ff = "0.4.0"
-ark-bn254 = { version = "0.4.0" }
-ark-std = { version = "0.4.0" }
+ark-ff = "0.5.0-alpha"
+ark-bn254 = { version = "0.5.0-alpha.0" }
+ark-std = { version = "0.5.0-alpha" }
 
 [dev-dependencies]
 criterion = "0.3"
